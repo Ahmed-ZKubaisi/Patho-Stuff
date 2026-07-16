@@ -1,0 +1,300 @@
+{
+  "questions": [
+    {
+      "question": "Which haematological neoplasms shows Auer rods on morphology ?",
+      "correct_answer": "AML",
+      "wrong_answers": [
+        "CLL",
+        "ALL",
+        "CML"
+      ]
+    },
+    {
+      "question": "Which of the following is a major clue used in plasma cell myeloma diagnosis ?",
+      "correct_answer": "M protein",
+      "wrong_answers": [
+        "Tdt",
+        "Philadelphia chromosome",
+        "MPO"
+      ]
+    },
+    {
+      "question": "Which of the following chromosomal translocations is present in chronic myeloid leukaemia ?",
+      "correct_answer": "t(9;22)",
+      "wrong_answers": [
+        "t(14;18)",
+        "t(2;13)",
+        "t(14;21)"
+      ]
+    },
+    {
+      "question": "Which of the following haematological malignancies is characterized by the presence of Philadelphia chromosome ?",
+      "correct_answer": "CML",
+      "wrong_answers": [
+        "AML",
+        "CLL",
+        "ALL"
+      ]
+    },
+    {
+      "question": "Which of the following is a specific marker of B cells ?",
+      "correct_answer": "CD19",
+      "wrong_answers": [
+        "CD 7",
+        "MPO",
+        "CD117"
+      ]
+    },
+    {
+      "question": "Which of the following is a major criterion in essential thrombocythemia ?",
+      "correct_answer": "Increase platelets count more than 450 x10⁹ / L",
+      "wrong_answers": [
+        "Occurs only in younger age groups",
+        "Bone marrow shows reactive fibrosis",
+        "Peripheral blood shows RBCs rouleaux"
+      ]
+    },
+    {
+      "question": "A 6-year-old boy presets with a 4-week history of fatigue and fever and 1-week history of bruising and pallor. Laboratory evaluation shows pancytopenia. Bone marrow aspiration shows myeloblasts with granules and occasional Auer rod. What is the most likely diagnosis ?",
+      "correct_answer": "Acute myeloid leukemia",
+      "wrong_answers": [
+        "Chronic myelogenous leukemia",
+        "Leukemoid reaction",
+        "Chronic lymphocytic leukemia"
+      ]
+    },
+    {
+      "question": "Which cell is specific to primary myelofibrosis ?",
+      "correct_answer": "Teardrop cell",
+      "wrong_answers": [
+        "Schistocyte",
+        "Target cell",
+        "Helmet cell"
+      ]
+    },
+    {
+      "question": "A patient came with absolute lymphocytosis and upon microscopic examination , smudge cells were detected. Which of the following is the most common diagnosis ?",
+      "correct_answer": "CLL",
+      "wrong_answers": [
+        "AML",
+        "T-ALL",
+        "CML"
+      ]
+    },
+    {
+      "question": "Which of the following haematological neoplasms correlates with this blood/BM findings ?",
+      "correct_answer": "Chronic lymphocytic leukemia",
+      "wrong_answers": [
+        "Acute myeloid leukemia",
+        "Primary myelofibrosis",
+        "Polycythemia vera"
+      ]
+    },
+    {
+      "question": "Which of the following correlates with Philadelphia chromosome ?",
+      "correct_answer": "Translocation between long arm of chromosome 9 and long arm of chromosome 22",
+      "wrong_answers": [
+        "Translocation between short arm of chromosome 9 and short arm of chromosome 22",
+        "Translocation between long arm of chromosome 9 and short arm of chromosome 22.",
+        "Translocation between short arm of chromosome 9 and long arm of chromosome 22"
+      ]
+    },
+    {
+      "question": "A 70 year old man came with plethora, fatigue and headache. HCT and Hb values were elevated. What is the most probable diagnosis ?",
+      "correct_answer": "Polycythemia vera",
+      "wrong_answers": [
+        "Essential Thrombocythemia",
+        "Primary myelofibrosis",
+        "Chronic myeloid leukemia"
+      ]
+    },
+    {
+      "question": "Which of the following hematological neoplasms shows RBCs rouleaux ?",
+      "correct_answer": "Plasma cells mylomas",
+      "wrong_answers": [
+        "Chronic myeloid leukemia",
+        "Acute lymphoblastic leukemia",
+        "Primary myelofibrosis"
+      ]
+    },
+    {
+      "question": "Which of the following is a marker of T-ALL ?",
+      "correct_answer": "CD7",
+      "wrong_answers": [
+        "CD13",
+        "CD19",
+        "CD10"
+      ]
+    },
+    {
+      "question": "What is the type of anemia usually seen in leukemia ?",
+      "correct_answer": "Normocytic normochromic",
+      "wrong_answers": [
+        "Macrocytic",
+        "Microcytic hypochromic"
+      ]
+    },
+    {
+      "question": "What are the characteristic cells seen in acute lymphoid leukemia ?",
+      "correct_answer": "Lymphoblasts",
+      "wrong_answers": [
+        "Mature T cells",
+        "Neutrophils",
+        "Myeloblast"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT included in the laboratory diagnosis of leukemia ?",
+      "correct_answer": "Serum FLC assay",
+      "wrong_answers": [
+        "CBC",
+        "FISH",
+        "Flow cytometry"
+      ]
+    },
+    {
+      "question": "Acute myeloid leukemia is usually positive for which CD marker ?",
+      "correct_answer": "CD33",
+      "wrong_answers": [
+        "CD34",
+        "CD19",
+        "CytoCD3"
+      ]
+    },
+    {
+      "question": "Which of the following lymphoid neoplasms is NOT of B cell origin ?",
+      "correct_answer": "Hodgkin Lymphoma",
+      "wrong_answers": [
+        "Plasmacytoma",
+        "Hairy cell leukemia",
+        "Small lymphocytic lymphoma"
+      ]
+    },
+    {
+      "question": "Diagnosis of CLL requires the presence of equal or more than how many B lymphocytes ?",
+      "correct_answer": "5x10^9/L",
+      "wrong_answers": [
+        "5x10^6/L",
+        "2.5x10^6/L",
+        "2.5x10^9/L"
+      ]
+    },
+    {
+      "question": "Which diagnostic method is used to confirm B cell monoclonality of CLL ?",
+      "correct_answer": "Flowcytometry",
+      "wrong_answers": [
+        "Karyotyping",
+        "CBC",
+        "Bone marrow biopsy"
+      ]
+    },
+    {
+      "question": "What is the difference between CLL and SLL ?",
+      "correct_answer": "The organ involved",
+      "wrong_answers": [
+        "The type of proliferating cell",
+        "Monoclonality of proliferating cells",
+        "The type of neoplastic lesion"
+      ]
+    },
+    {
+      "question": "Detection of smudge cells on a blood smear may indicate which of the following conditions ?",
+      "correct_answer": "CLL",
+      "wrong_answers": [
+        "ALL",
+        "AML",
+        "PCM"
+      ]
+    },
+    {
+      "question": "A M-protein concentration of 25g/L with no organ involvement correlates with which of the following ?",
+      "correct_answer": "MGUS",
+      "wrong_answers": [
+        "Smoldering PCM",
+        "Asymptomatic PCM",
+        "Secondary PCL"
+      ]
+    },
+    {
+      "question": "An absolute number of 6x10^9/L of circulating plasma cells and a percentage of 25% is seen in which of the following ?",
+      "correct_answer": "PCL",
+      "wrong_answers": [
+        "Smoldering PCM",
+        "MGUS",
+        "AML"
+      ]
+    },
+    {
+      "question": "Which of the following haematological neoplasms correlates with this blood/BM findings ?",
+      "correct_answer": "Essential thrombocythemia",
+      "wrong_answers": [
+        "Plasma cell myeloma",
+        "Polycythemia vera",
+        "Chronic lymphocytic leukemia"
+      ]
+    },
+    {
+      "question": "What is the type of anemia usually seen in plasma cell dyscriasis ?",
+      "correct_answer": "Normocytic normochromic",
+      "wrong_answers": [
+        "Macrocytic anemia",
+        "Microcytic hypochromic",
+        "Pernicious anemia"
+      ]
+    },
+    {
+      "question": "What is the predominant cell population in plasma cell dyscriasis ?",
+      "correct_answer": "Plasma cells",
+      "wrong_answers": [
+        "Neutrophils",
+        "Lymphocytes",
+        "Undifferentiated stem cells"
+      ]
+    },
+    {
+      "question": "Active tyrosine kinase is responsible for cytoplasmic and nuclear signals. This explains the increased cell proliferation in which of the following ?",
+      "correct_answer": "CML",
+      "wrong_answers": [
+        "PCL",
+        "CLL",
+        "PV"
+      ]
+    },
+    {
+      "question": "Trilineage proliferation with prominent erythroid and megakaryocytic series is seen in which of the following ?",
+      "correct_answer": "PV",
+      "wrong_answers": [
+        "ET",
+        "PMF",
+        "CML"
+      ]
+    },
+    {
+      "question": "Which of the following is true about essential thrombocythemia ?",
+      "correct_answer": "Splenomegaly is seen in 50% of patients",
+      "wrong_answers": [
+        "It's only manifested by episodes of thrombosis",
+        "Patients are mainly symptomatic with predominance among adults",
+        "The main diagnostic method is conventional cytogenetics"
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding PMF ?",
+      "correct_answer": "Bone marrow fibrosis is mainly reactive",
+      "wrong_answers": [
+        "Trilineage proliferation with predominance of erythroid lines only",
+        "Hematopoesis is mainly carried out by bone marrow",
+        "It's an acute myeloproliferative disease"
+      ]
+    },
+    {
+      "question": "Which of the following haematological neoplasms correlates with this blood/BM findings ?",
+      "correct_answer": "Primary myelofibrosis",
+      "wrong_answers": [
+        "Acute lymphocytic leukemia",
+        "Chronic myeloid leukemia",
+        "Essential thrombocythemia"
+      ]
+    }
+  ]
+}

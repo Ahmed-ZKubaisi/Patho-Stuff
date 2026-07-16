@@ -1,0 +1,265 @@
+{
+  "questions": [
+    {
+      "question": "What is the principle of microarray ?",
+      "correct_answer": "Fluorescent labelled probs bind to specific locations on DNA level",
+      "wrong_answers": [
+        "Enzymatic reaction produces color",
+        "Fluorescent labelled probs bind to chromosome level",
+        "It requires live cells to detect large abnormalities"
+      ]
+    },
+    {
+      "question": "The karyogram helps detect large structural abnormalities, the size attained is due to condensation of chromatin in which stage of replication ?",
+      "correct_answer": "Metaphase",
+      "wrong_answers": [
+        "Prophase",
+        "Telophase",
+        "Anaphase"
+      ]
+    },
+    {
+      "question": "Which of the following is an example of a disease caused by a structural abnormality ?",
+      "correct_answer": "Chronic Myeloid Leukemia",
+      "wrong_answers": [
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Turner syndrome"
+      ]
+    },
+    {
+      "question": "Turner syndrome is an example of :",
+      "correct_answer": "Monosomy",
+      "wrong_answers": [
+        "Maternal uniparental Disomy",
+        "Trisomy",
+        "Reciprocal Translocation"
+      ]
+    },
+    {
+      "question": "Which of the following is correct regarding PCR ?",
+      "correct_answer": "It consists of a set of repetitive enzymatic-temperature dependant reactions",
+      "wrong_answers": [
+        "DNA sample-template provides the building blocks for DNA amplification",
+        "The primers are identical to the DNA to be amplified.",
+        "It's only provides qualitative results"
+      ]
+    },
+    {
+      "question": "What's the basis of conventional PCR ?",
+      "correct_answer": "Detection is mainly after the process is complete using electrophoresis.",
+      "wrong_answers": [
+        "Fluorescent detection during amplification",
+        "A cycle of denaturing, annealing, extension, providing quantitative results",
+        "It can be used for detection of viral load."
+      ]
+    },
+    {
+      "question": "How are signals produced with Real Time PCR ?",
+      "correct_answer": "Using dyes like SYBR green",
+      "wrong_answers": [
+        "The products emit photons.",
+        "Using an enzymatic reaction that produces light.",
+        "Using an enzymatic reaction that produces color."
+      ]
+    },
+    {
+      "question": "Which of the following is added to the process of DNA sequencing ?",
+      "correct_answer": "Terminator bases each tagged with a unique dye.",
+      "wrong_answers": [
+        "Fluorogenic dyed DNA probes",
+        "Anti-dsDNA",
+        "Terminator bases tagged with the same dye"
+      ]
+    },
+    {
+      "question": "Direct sequencing is an advantage of which generation of sequencing?",
+      "correct_answer": "Third",
+      "wrong_answers": [
+        "First",
+        "Second",
+        "They are all indirect as they require amplification"
+      ]
+    },
+    {
+      "question": "JAK2V617F supports diagnosis of which hematological neoplasm?",
+      "correct_answer": "Myeloproliferative Neoplasia",
+      "wrong_answers": [
+        "Plasma Cell Myeloma",
+        "Primary Myelofibrosis",
+        "Chronic lymphoid leukemia"
+      ]
+    },
+    {
+      "question": "Which of the following is a true regarding the detection of a JAK-2 mutation?",
+      "correct_answer": "It is of limited diagnostic value in PMF",
+      "wrong_answers": [
+        "Differentiate between types of MPN",
+        "It's present in the 90-95% of Essential Thrombocythemia cases",
+        "It's negative in nearly 50% of Polycythemia Vera cases"
+      ]
+    },
+    {
+      "question": "Which of the following numerical chromosomal abnormalities describes having an extra chromosome ?",
+      "correct_answer": "Trisomy",
+      "wrong_answers": [
+        "Monosomy",
+        "Deletion",
+        "Inversion"
+      ]
+    },
+    {
+      "question": "Which DNA sequencing technology can read native DNA directly with very long reads for analysis and without amplification need ?",
+      "correct_answer": "Third-Generation",
+      "wrong_answers": [
+        "First-Generation",
+        "Second-Generation",
+        "Fourth-Generation"
+      ]
+    },
+    {
+      "question": "Which PCR technique would be most efficient for simultaneously identifying the bacterial species and detecting multiple antibiotic resistance genes in a single reaction ?",
+      "correct_answer": "Multiplex PCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "Digital PCR",
+        "Reverse Transcription PCR"
+      ]
+    },
+    {
+      "question": "Which DNA sequencing technology would be most cost-efficient for confirming the presence of a known single point mutation in a single sample ?",
+      "correct_answer": "Sanger Sequencing",
+      "wrong_answers": [
+        "Third-Generation Sequencing",
+        "Next-Generation Sequencing",
+        "Conventional karyotyping"
+      ]
+    },
+    {
+      "question": "Which of the following statements accurately describes a key difference between DNA and RNA ?",
+      "correct_answer": "DNA contains thymine, whereas RNA contains uracil",
+      "wrong_answers": [
+        "DNA is less stable than RNA",
+        "RNA is typically double-stranded, while DNA is single-stranded",
+        "RNA is mainly found in the nucleus, while DNA is mainly cytoplasmic"
+      ]
+    },
+    {
+      "question": "Which genetic testing method is most suitable for detecting a specific chromosomal translocation ?",
+      "correct_answer": "Conventional karyotyping",
+      "wrong_answers": [
+        "Digital PCR",
+        "Real-Time PCR",
+        "Sanger Sequencing"
+      ]
+    },
+    {
+      "question": "Which PCR technique offers the highest accuracy for absolute quantification of DNA copies, particularly for low-abundance targets ?",
+      "correct_answer": "Digital PCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "Real-Time PCR",
+        "Multiplex PCR"
+      ]
+    },
+    {
+      "question": "Which of the following is a recognized application of molecular techniques in medicine ?",
+      "correct_answer": "Paternity testing",
+      "wrong_answers": [
+        "Measuring blood pressure",
+        "Performing surgical procedures",
+        "Administering vaccinations"
+      ]
+    },
+    {
+      "question": "What is the function of oligonucleotide primers in a PCR reaction ?",
+      "correct_answer": "To define the specific region of DNA to be amplified",
+      "wrong_answers": [
+        "To denature the double-stranded DNA template",
+        "To synthesize new DNA strands from dNTPs",
+        "To provide energy for the reaction"
+      ]
+    },
+    {
+      "question": "What is the detection method typically used for conventional PCR products ?",
+      "correct_answer": "Gel electrophoresis",
+      "wrong_answers": [
+        "Mass spectrometry",
+        "Fluorescent signal detection during amplification",
+        "Microscopic visualization of chromosomal banding"
+      ]
+    },
+    {
+      "question": "why does a negative JAK2V617F mutation screening have limited diagnostic value in Essential Thrombocythemia ?",
+      "correct_answer": "Approximately half of ET patients are negative for this mutation",
+      "wrong_answers": [
+        "The mutation is exclusively found in Polycythemia Vera",
+        "The mutation is only detectable by conventional karyotyping in ET",
+        "The mutation causes a different amino acid substitution in ET"
+      ]
+    },
+    {
+      "question": "Which PCR technique would be best suited for detecting and quantifying this very low abundance, specific point mutation for MRD monitoring ?",
+      "correct_answer": "Digital PCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "Real-Time PCR",
+        "Multiplex PCR"
+      ]
+    },
+    {
+      "question": "Which component of a PCR reaction provides the building blocks for new DNA synthesis ?",
+      "correct_answer": "Deoxyribonucleotide triphosphates",
+      "wrong_answers": [
+        "DNA Polymerase",
+        "Oligonucleotide Primers",
+        "Template DNA"
+      ]
+    },
+    {
+      "question": "Which instrument is used for conventional PCR reactions to rapidly change temperature for each cycle ?",
+      "correct_answer": "Thermocycler",
+      "wrong_answers": [
+        "Centrifuge",
+        "Spectrophotometer",
+        "Fluorescent microscope"
+      ]
+    },
+    {
+      "question": "Conventional karyotyping is primarily used to detect which type of genetic abnormality ?",
+      "correct_answer": "Large structural chromosome abnormalities (≥3-5 Mb)",
+      "wrong_answers": [
+        "Single nucleotide polymorphisms",
+        "Small gene deletions (<100 bp)",
+        "Point mutations in specific genes"
+      ]
+    },
+    {
+      "question": "Which generation of DNA sequencing technology is characterized by its ability to rapidly sequence millions of DNA or RNA fragments in parallel, enabling high-throughput analysis of entire genomes or targeted regions ?",
+      "correct_answer": "Next-Generation Sequencing",
+      "wrong_answers": [
+        "Third-Generation Sequencing",
+        "First-Generation Sequencing",
+        "Conventional karyotyping"
+      ]
+    },
+    {
+      "question": "Third-generation sequencing technologies offer a distinct advantage over NGS by providing which of the following capabilities ?",
+      "correct_answer": "Ability to sequence single DNA molecules without amplification and produce much longer reads",
+      "wrong_answers": [
+        "Higher efficiency for short reads rather than longer ones",
+        "Lower cost for large-scale population studies",
+        "Exclusive focus on targeted gene panels"
+      ]
+    },
+    {
+      "question": "Which is the correct order of steps in a PCR cycle ?",
+      "correct_answer": "Denaturation → Annealing → Extension",
+      "wrong_answers": [
+        "Annealing → Denaturation → Extension",
+        "Denaturation → Extension → Annealing",
+        "Extension → Denaturation → Annealing"
+      ]
+    }
+  ]
+}

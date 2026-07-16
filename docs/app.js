@@ -1,31 +1,40 @@
-const DATA_ROOT = 'MedQuiz';
+const DATA_ROOT = 'questions';
 const TOPICS = {
   patho: 'Group 1',
   pharma: 'Group 2'
 };
-const CATEGORY_FILES = {
+const TOPIC_FOLDERS = {
+  patho: 'Patho',
+  pharma: 'Pharma'
+};
+
+const FALLBACK_QUESTIONS = {
   patho: [
-    `${DATA_ROOT}/Patho/1 - Copy (10) - Copy.json`,
-    `${DATA_ROOT}/Patho/1 - Copy (2).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (3).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (4).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (5).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (6).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (7).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (8) - Copy.json`,
-    `${DATA_ROOT}/Patho/1 - Copy (8).json`,
-    `${DATA_ROOT}/Patho/1 - Copy (9) - Copy.json`,
-    `${DATA_ROOT}/Patho/1 - Copy.json`
+    {
+      question: 'Which cell type is primarily responsible for phagocytosis in acute inflammation?',
+      correct_answer: 'Neutrophils',
+      wrong_answers: ['Lymphocytes', 'Eosinophils', 'Basophils']
+    },
+    {
+      question: 'What is the hallmark feature of coagulative necrosis?',
+      correct_answer: 'Preserved tissue architecture with loss of nuclei',
+      wrong_answers: ['Liquefied tissue with pus formation', 'Fat saponification', 'Caseous cheese-like debris']
+    }
   ],
   pharma: [
-    `${DATA_ROOT}/Pharma/1 - Copy (2).json`,
-    `${DATA_ROOT}/Pharma/1 - Copy (3).json`,
-    `${DATA_ROOT}/Pharma/1 - Copy (4).json`,
-    `${DATA_ROOT}/Pharma/1 - Copy (5).json`,
-    `${DATA_ROOT}/Pharma/1 - Copy.json`,
-    `${DATA_ROOT}/Pharma/1.json`
+    {
+      question: 'Which receptor is the primary target of beta-blockers?',
+      correct_answer: 'Beta-1 adrenergic receptor',
+      wrong_answers: ['Alpha-1 adrenergic receptor', 'Muscarinic receptor', 'Dopamine receptor']
+    },
+    {
+      question: 'What is the mechanism of action of ACE inhibitors?',
+      correct_answer: 'Block conversion of angiotensin I to angiotensin II',
+      wrong_answers: ['Block aldosterone receptors', 'Stimulate renin release', 'Inhibit beta-adrenergic receptors']
+    }
   ]
 };
+
 const STORAGE_KEY = 'medquiz_excluded';
 const LANGUAGE_KEY = 'medquiz_language';
 
@@ -52,7 +61,7 @@ const translations = {
     review: 'Review wrong answers now?',
     noBanks: 'Please select at least one topic to start a session.',
     noQuestions: 'No questions were available for the selected topics.',
-    noSelection: 'This quiz uses the Patho and Pharma folders next to the website.'
+    noSelection: 'If external bank files are missing, built-in fallback questions are used.'
   }
 };
 
@@ -125,9 +134,64 @@ function applyLanguage() {
   document.title = state.language === 'ar' ? 'اختبار طب' : 'MedQuiz';
 }
 
+/**
+ * Discover every .json file inside a folder.
+ * Tries, in order:
+ *   1. A `manifest.json` file inside the folder listing filenames (works on any static host).
+ *   2. Parsing a server-generated directory listing page (works with servers that have
+ *      autoindex enabled, e.g. `python -m http.server`, Apache/nginx with Indexes on).
+ * Returns an array of full file paths.
+ */
+async function discoverJsonFiles(folder) {
+  // 1) Manifest-based discovery (most reliable, works everywhere)
+  try {
+    const res = await fetch(`${folder}/manifest.json`);
+    if (res.ok) {
+      const list = await res.json();
+      if (Array.isArray(list) && list.length) {
+        return list
+          .filter((name) => typeof name === 'string' && name.toLowerCase().endsWith('.json'))
+          .map((name) => `${folder}/${name}`);
+      }
+    }
+  } catch {
+    // ignore and fall through to next strategy
+  }
+
+  // 2) Directory-listing based discovery (only works if the server exposes one)
+  try {
+    const res = await fetch(`${folder}/`);
+    if (res.ok) {
+      const html = await res.text();
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const hrefs = [...doc.querySelectorAll('a[href$=".json"]')]
+        .map((a) => a.getAttribute('href'))
+        .filter(Boolean);
+      if (hrefs.length) {
+        return hrefs.map((href) => {
+          if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('/')) {
+            return href;
+          }
+          return `${folder}/${decodeURIComponent(href)}`;
+        });
+      }
+    }
+  } catch {
+    // ignore, no listing available
+  }
+
+  return [];
+}
+
 async function loadQuestions(topic) {
-  const files = CATEGORY_FILES[topic] || [];
-  const questions = await Promise.all(files.map(async (file) => {
+  const folder = `${DATA_ROOT}/${TOPIC_FOLDERS[topic]}`;
+  const files = await discoverJsonFiles(folder);
+
+  if (!files.length) {
+    return FALLBACK_QUESTIONS[topic] || [];
+  }
+
+  const questionSets = await Promise.all(files.map(async (file) => {
     try {
       const res = await fetch(file);
       if (!res.ok) return [];
@@ -138,7 +202,9 @@ async function loadQuestions(topic) {
       return [];
     }
   }));
-  return questions.flat();
+
+  const loaded = questionSets.flat();
+  return loaded.length ? loaded : FALLBACK_QUESTIONS[topic] || [];
 }
 
 function renderApp() {
@@ -184,7 +250,7 @@ function renderApp() {
         </div>
 
         <p class="small">${t('hint')}</p>
-        <div class="footer-credit">Web version of your quiz</div>
+        <div class="footer-credit">Website by Ahmed Zeyad Al-Kubaisi</div>
       </div>
     `;
 

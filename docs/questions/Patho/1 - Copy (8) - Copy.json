@@ -1,0 +1,193 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following auto-antibodies may have a role in monitoring SLE activity?",
+      "correct_answer": "Anti-dsDNA antibodies",
+      "wrong_answers": [
+        "Rheumatoid factor",
+        "Anti-Sm antibodies",
+        "Anti-Ro (SSA) antibodies"
+      ]
+    },
+    {
+      "question": "What does direct immunofluorescence use?",
+      "correct_answer": "Fluorochrome labelled antibody",
+      "wrong_answers": [
+        "Laser detection at 90⁰ angle",
+        "Fluorochrome labelled Anti Ig antibodies",
+        "Luminescent labelled antibodies"
+      ]
+    },
+    {
+      "question": "What is latex agglutination test ?",
+      "correct_answer": "Indirect Agglutination test",
+      "wrong_answers": [
+        "Precipitation test",
+        "Direct Agglutination test",
+        "Complement fixation test"
+      ]
+    },
+    {
+      "question": "Which of the following is used for Blood groping ?",
+      "correct_answer": "Agglutination",
+      "wrong_answers": [
+        "Fluorescence assay",
+        "ELISA",
+        "Perceptation"
+      ]
+    },
+    {
+      "question": "What is the process that converts Ab and Ag molecules in a soluble form to insoluble form?",
+      "correct_answer": "Precipitation",
+      "wrong_answers": [
+        "Agglutination",
+        "Complement fixation",
+        "PCR"
+      ]
+    },
+    {
+      "question": "Coomb's test is an example of :",
+      "correct_answer": "Agglutination reaction",
+      "wrong_answers": [
+        "Precipitation reaction",
+        "Complement fixation",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Widal test is an example of:",
+      "correct_answer": "Agglutination reaction",
+      "wrong_answers": [
+        "Precipitation reaction",
+        "Complement fixation",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Which of the following is not labelled antibodies test?",
+      "correct_answer": "Coomb's test",
+      "wrong_answers": [
+        "Immunofluorescence",
+        "ELISA",
+        "Chemiluminescence"
+      ]
+    },
+    {
+      "question": "Direct Coomb's test is using antibodies attached to :",
+      "correct_answer": "Erythrocytes",
+      "wrong_answers": [
+        "White blood cells",
+        "Platelets",
+        "Macrophages"
+      ]
+    },
+    {
+      "question": "Different type of T lymphocytes are components of :",
+      "correct_answer": "Cell-mediated immune system",
+      "wrong_answers": [
+        "Humoral immune system",
+        "Complement system",
+        "Phagocytic system"
+      ]
+    },
+    {
+      "question": "What is the most sensitive test for SLE screening ?",
+      "correct_answer": "ANA",
+      "wrong_answers": [
+        "Anti-ds DNA",
+        "Lupus anticoagulant",
+        "ESR"
+      ]
+    },
+    {
+      "question": "What is the general definition of autoimmunity?",
+      "correct_answer": "Loss of tolerance to self-antigens",
+      "wrong_answers": [
+        "↑ tolerance to self-antigens",
+        "Increase in clonal detection of mutant cells",
+        "Manifestations of immunosuppression"
+      ]
+    },
+    {
+      "question": "What does Indirect Coomb's test detect ?",
+      "correct_answer": "Antibodies in serum",
+      "wrong_answers": [
+        "Antigens in serum",
+        "Antibodies on cells",
+        "Antigens on cells"
+      ]
+    },
+    {
+      "question": "Which marker is used to monitor disease activity in SLE ?",
+      "correct_answer": "Anti-dsDNA",
+      "wrong_answers": [
+        "RF",
+        "Anti-Ro/SSA",
+        "All of the above"
+      ]
+    },
+    {
+      "question": "Fundamental tool in immunofluorescence test is:",
+      "correct_answer": "Fluorescent monoclonal antibodies",
+      "wrong_answers": [
+        "Complement proteins",
+        "Enzyme-linked antibodies",
+        "Radioisotope-labeled antibodies"
+      ]
+    },
+    {
+      "question": "Which of the following is enzyme used in ELISA ?",
+      "correct_answer": "Horseradish peroxidase",
+      "wrong_answers": [
+        "Glucose oxidase",
+        "Hydrogen Catalase",
+        "β-galactosidase"
+      ]
+    },
+    {
+      "question": "RH testing is considered :",
+      "correct_answer": "Agglutination reaction",
+      "wrong_answers": [
+        "Precipitation reaction",
+        "Complement fixation",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Which antibody of the following we can use to monitor SLE disease activity?",
+      "correct_answer": "Anti-dsDNA",
+      "wrong_answers": [
+        "ANA",
+        "Rose Waler test",
+        "LKM antibodies"
+      ]
+    },
+    {
+      "question": "The main purpose of the Widal test is for the diagnosis of ;",
+      "correct_answer": "Certain bacterial infections",
+      "wrong_answers": [
+        "Molecular diseases",
+        "Blood groups",
+        "Autoimmune antibodies"
+      ]
+    },
+    {
+      "question": "All of the following are labeled immunoassay except ;",
+      "correct_answer": "Agglutination",
+      "wrong_answers": [
+        "ELISA",
+        "Immunofluorescence",
+        "Chemiluminescence"
+      ]
+    },
+    {
+      "question": "Which ANA titer is considered significant?",
+      "correct_answer": "1:160",
+      "wrong_answers": [
+        "1:40",
+        "1:80",
+        "1:320"
+      ]
+    }
+  ]
+}

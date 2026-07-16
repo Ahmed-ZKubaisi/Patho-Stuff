@@ -1,0 +1,220 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following represent findings in primary hyperthyroidism ?",
+      "correct_answer": "low TSH and high FT4",
+      "wrong_answers": [
+        "high TSH and high FT4",
+        "high TSH and low FT4",
+        "low TSH and low FT4"
+      ]
+    },
+    {
+      "question": "Which hormone causes acromegaly if secreted in large amounts after puberty?",
+      "correct_answer": "GH",
+      "wrong_answers": [
+        "TSH",
+        "Aldosterone",
+        "Cortisol"
+      ]
+    },
+    {
+      "question": "Which of the following condition we use Synacthen stimulation test to diagnose?",
+      "correct_answer": "Adrenocortical suppression",
+      "wrong_answers": [
+        "Hypothyroidism",
+        "Acromegaly",
+        "Pheochromocytoma"
+      ]
+    },
+    {
+      "question": "Which of the following is present in hypothyroidism?",
+      "correct_answer": "Hyperlipidemia",
+      "wrong_answers": [
+        "Hypercalcemia",
+        "Hyperuricemia",
+        "Hyperkalemia"
+      ]
+    },
+    {
+      "question": "Which of the following indicates secondary hypothyroidism?",
+      "correct_answer": "low TSH low T4",
+      "wrong_answers": [
+        "high TSH high T4",
+        "low TSH high T4",
+        "high TSH low T4"
+      ]
+    },
+    {
+      "question": "Which of the following is correct regarding acromegaly?",
+      "correct_answer": "high GH",
+      "wrong_answers": [
+        "Positive suppression test",
+        "Exercise stimulation test is positive",
+        "IGF1 is low"
+      ]
+    },
+    {
+      "question": "Which of the following hormones shows diurnal variation which is higher in evening ?",
+      "correct_answer": "GH",
+      "wrong_answers": [
+        "Insulin",
+        "Cortisol",
+        "Iron"
+      ]
+    },
+    {
+      "question": "Which of the following analytes requires EDTA serum sampling?",
+      "correct_answer": "ACTH",
+      "wrong_answers": [
+        "GH",
+        "Insulin",
+        "Catecholamines"
+      ]
+    },
+    {
+      "question": "Which hormone can be easily measured in saliva ?",
+      "correct_answer": "Testosterone",
+      "wrong_answers": [
+        "Growth hormone",
+        "Catecholamines",
+        "Parathyroid hormones"
+      ]
+    },
+    {
+      "question": "To diagnose DM, the fasting PGL should be:",
+      "correct_answer": ">126",
+      "wrong_answers": [
+        ">110",
+        ">120",
+        ">130"
+      ]
+    },
+    {
+      "question": "When is the peak of Growth hormone found?",
+      "correct_answer": "2 hours after deep sleep",
+      "wrong_answers": [
+        "After meals",
+        "In evening",
+        "In the morning"
+      ]
+    },
+    {
+      "question": "A patient has elevated serum free T4 with undetectable TSH. What is the most likely cause of these results?",
+      "correct_answer": "Primary hyperthyroidism",
+      "wrong_answers": [
+        "Secondary hyperthyroidism",
+        "Euthyroid with ↑ thyroxine binding",
+        "Euthyroid sick syndrome"
+      ]
+    },
+    {
+      "question": "Which hormone, when undersecreted in children, leads to dwarfism?",
+      "correct_answer": "GH",
+      "wrong_answers": [
+        "TSH",
+        "FSH",
+        "LH"
+      ]
+    },
+    {
+      "question": "All of the following can cause increased prolactin levels Except:",
+      "correct_answer": "Hyperthyroidism",
+      "wrong_answers": [
+        "Liver diseases",
+        "Pituitary adenoma",
+        "Pregnancy"
+      ]
+    },
+    {
+      "question": "A female patient presents with constipation and cold intolerance. Laboratory findings show low free T₄ and elevated TSH. The diagnosis is:",
+      "correct_answer": "Primary hypothyroidism",
+      "wrong_answers": [
+        "Secondary hypothyroidism",
+        "Subclinical hypothyroidism",
+        "Secondary hyperthyroidism"
+      ]
+    },
+    {
+      "question": "Which of the following is a typical finding in a patient with hypothyroidism?",
+      "correct_answer": "Decreased free T4",
+      "wrong_answers": [
+        "Elevated T3",
+        "Decreased TSH",
+        "Elevated TSH"
+      ]
+    },
+    {
+      "question": "Which of the following is a common finding in patients with hyperthyroidism?",
+      "correct_answer": "Elevated T3 and T4 levels",
+      "wrong_answers": [
+        "Decreased TSH levels",
+        "Decreased T4 levels",
+        "Elevated serum calcium levels"
+      ]
+    },
+    {
+      "question": "Which of the following conditions is commonly associated with elevated serum calcium and low phosphate levels?",
+      "correct_answer": "Primary hyperparathyroidism",
+      "wrong_answers": [
+        "Vitamin D deficiency",
+        "Chronic kidney disease",
+        "Hypoparathyroidism"
+      ]
+    },
+    {
+      "question": "What is the most appropriate marker for differentiating between primary and secondary hyperparathyroidism?",
+      "correct_answer": "Serum calcium level",
+      "wrong_answers": [
+        "Serum parathyroid hormone",
+        "Serum phosphate level",
+        "Serum vitamin D level"
+      ]
+    },
+    {
+      "question": "Which laboratory test is used to assess the therapeutic response to treatment in thyroid dysfunctions?",
+      "correct_answer": "Free T4 level",
+      "wrong_answers": [
+        "TSH",
+        "Free T3 level",
+        "Serum thyroglobulin"
+      ]
+    },
+    {
+      "question": "Which test is most useful for diagnosing adrenal insufficiency ?",
+      "correct_answer": "Synacthen test",
+      "wrong_answers": [
+        "Serum aldosterone",
+        "Serum cortisol",
+        "24hour urinary free cortisol"
+      ]
+    },
+    {
+      "question": "A Patient has high ACTH level, low aldosterone and cortisol level with high potassium level. What is your diagnosis?",
+      "correct_answer": "Primary hypoadrenalism.",
+      "wrong_answers": [
+        "Secondary hypoadrenalism.",
+        "Cushing disease.",
+        "Cushing syndrome."
+      ]
+    },
+    {
+      "question": "Which if the following hormones are useful in laboratory diagnosis of pheochromocytoma?",
+      "correct_answer": "Norepinephrine and epinephrine",
+      "wrong_answers": [
+        "Glucocorticoids and aldosterone",
+        "Testosterone and estrogen",
+        "FSH and LH"
+      ]
+    },
+    {
+      "question": "Which of the following tests in used when GH is undersecreted in children leading to dwarfism?",
+      "correct_answer": "Exercise stimulation test",
+      "wrong_answers": [
+        "Synacthen test",
+        "Glucose stimulation test",
+        "Glucose suppression test"
+      ]
+    }
+  ]
+}

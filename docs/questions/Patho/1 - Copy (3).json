@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "All of the following are markers in case of liver cell injury, except:",
+      "correct_answer": "ALP",
+      "wrong_answers": [
+        "LDH",
+        "ALT",
+        "AST"
+      ]
+    },
+    {
+      "question": "Which is an indicator for liver synthetic function?",
+      "correct_answer": "Albumin",
+      "wrong_answers": [
+        "Unconjugated bilirubin",
+        "Conjugated bilirubin",
+        "Urea"
+      ]
+    },
+    {
+      "question": "A patient with a gallstone that obstruct the common bile duct will present with which of the following?",
+      "correct_answer": "Positive Iodine test in urine and Clay coloured stool.",
+      "wrong_answers": [
+        "Negative Iodine test in urine and Clay coloured stool.",
+        "Positive Iodine test in urine and Normal coloured stool.",
+        "Positive Erlich test in urine and Normal coloured stool"
+      ]
+    },
+    {
+      "question": "Elevated levels of which enzyme are most indicative of liver injury?",
+      "correct_answer": "Alanine aminotransferase (ALT)",
+      "wrong_answers": [
+        "Amylase",
+        "Lipase",
+        "Alkaline phosphatase (ALP)"
+      ]
+    },
+    {
+      "question": "Which of the following is the most common cause hyperbilirubinemia in newborns?",
+      "correct_answer": "Hemolytic disease of the newborn",
+      "wrong_answers": [
+        "Gilbert syndrome",
+        "Crigler-Najjar syndrome",
+        "Hepatitis"
+      ]
+    },
+    {
+      "question": "What is the primary cause of elevated alkaline phosphatase levels?",
+      "correct_answer": "Liver disease",
+      "wrong_answers": [
+        "Diabetes",
+        "Anaemia",
+        "Heart failure"
+      ]
+    },
+    {
+      "question": "Elevated levels of which are typically associated with bile duct obstruction?",
+      "correct_answer": "Alkaline phosphatase (ALP)",
+      "wrong_answers": [
+        "Alanine aminotransferase (ALT)",
+        "Amylase",
+        "Lipase"
+      ]
+    },
+    {
+      "question": "Which condition is indicated by the presence of \"Jaundice\"?",
+      "correct_answer": "Elevated bilirubin levels",
+      "wrong_answers": [
+        "Decreased haemoglobin levels",
+        "Elevated blood glucose levels",
+        "Low platelet count"
+      ]
+    },
+    {
+      "question": "Elevated levels of \"lactate dehydrogenase\" (LDH) are associated with:",
+      "correct_answer": "Tissue damage and hemolysis",
+      "wrong_answers": [
+        "Hyperlipidemia",
+        "Liver dysfunction",
+        "Renal failure"
+      ]
+    },
+    {
+      "question": "In the setting of severe liver disease, which test is most useful in assessing the degree of hepatocellular damage?",
+      "correct_answer": "Serum alanine aminotransferase (ALT)",
+      "wrong_answers": [
+        "Serum alkaline phosphatase (ALP)",
+        "Serum bilirubin",
+        "Prothrombin time (PT)"
+      ]
+    },
+    {
+      "question": "In unconjugated hyperbilirubinemia the followings are present:",
+      "correct_answer": "↑ Serum unconjugated bilirubin, deep yellow urine with positive Ehrlich teste, normal colored stools.",
+      "wrong_answers": [
+        "↑ serum unconjugated bilirubin, deep yellow urine with negative Ehrlich teste, normal colored stools",
+        "↑ serum unconjugated bilirubin, deep yellow urine with Positive Ehrlich teste, clay colored stools",
+        "↑ serum unconjugated bilirubin, deep yellow urine with negative Ehrlich test, clay colored stools"
+      ]
+    },
+    {
+      "question": "The best single test to assess hepatic synthetic function in acute conditions is measurement of:",
+      "correct_answer": "Prothrombin time",
+      "wrong_answers": [
+        "Total proteins",
+        "ALT",
+        "GGT"
+      ]
+    },
+    {
+      "question": "What is the main difference between Alanine aminotransferase (ALT) and Gamma glutamyl transferase (GGT):",
+      "correct_answer": "It is more liver specific for detecting hepatocellular damage",
+      "wrong_answers": [
+        "It increases significantly up to levels 10 to 12-fold in hepatobiliary obstruction",
+        "Elevated in hepatobiliary obstruction but usually normal in hepatocellular affection",
+        "Is elevated in cases of intra more than extra hepatic biliary obstruction"
+      ]
+    },
+    {
+      "question": "Which of the following tests is positive in a patient with chronic active hepatitis B?",
+      "correct_answer": "HBsAg",
+      "wrong_answers": [
+        "Anti-HBs",
+        "Anti-HBc IgM",
+        "HBeAb"
+      ]
+    },
+    {
+      "question": "Which of the following enzymes is usually normal in hepatocellular damage?",
+      "correct_answer": "5′-Nucleotidase (5′N)",
+      "wrong_answers": [
+        "ALT",
+        "AST",
+        "ALP"
+      ]
+    },
+    {
+      "question": "Which enzyme is more specific for hepatocellular injury?",
+      "correct_answer": "ALT",
+      "wrong_answers": [
+        "ALP",
+        "LDH",
+        "AST"
+      ]
+    },
+    {
+      "question": "What is the indication of: total +ve Anti Hbc and +ve Hbs Antigen",
+      "correct_answer": "Chronic HBV infection",
+      "wrong_answers": [
+        "Acute HBV infection",
+        "Resolved HBV infection",
+        "HBV  Vaccinated"
+      ]
+    },
+    {
+      "question": "What is the indication of: +ve Anti Hbc and +ve Anti Hbs",
+      "correct_answer": "Resolved HBV infection",
+      "wrong_answers": [
+        "Acute HBV infection",
+        "Resolved HBV and HBV vaccinated",
+        "Chronic HBV infection"
+      ]
+    },
+    {
+      "question": "What is the indication of: Hbe Antigen",
+      "correct_answer": "Infectivity",
+      "wrong_answers": [
+        "Acute infection",
+        "Chronicity",
+        "Lifelong immunity"
+      ]
+    },
+    {
+      "question": "What is the indication of: Anti Hbs level < 10 mlU/mL",
+      "correct_answer": "Non-responsive to vaccine",
+      "wrong_answers": [
+        "Acceptable and safe",
+        "Receive booster dose at 5 years",
+        "Receive one additional dose of vaccine"
+      ]
+    }
+  ]
+}

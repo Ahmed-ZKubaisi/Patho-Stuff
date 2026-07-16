@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "question": "What is vascular purpura test call ?",
+      "correct_answer": "Hess Test",
+      "wrong_answers": [
+        "Rothra test",
+        "Erlich test",
+        "Glucose test"
+      ]
+    },
+    {
+      "question": "What causes increased bleeding time above normal range ?",
+      "correct_answer": "Idiopathic thrombocytopenia",
+      "wrong_answers": [
+        "Vit K deficiency",
+        "Hemophilia factor 8",
+        "Christmas hemophilia"
+      ]
+    },
+    {
+      "question": "A patient is receiving intravenous Heparin therapy. Which of the following is the appropriate index for monitoring ?",
+      "correct_answer": "PTT - 1.5:2.5 normal values",
+      "wrong_answers": [
+        "PT _ 1.5:2.5 normal values",
+        "PT - 5.5;6.5 normal values",
+        "PTT - 5.5;6.5 normal values"
+      ]
+    },
+    {
+      "question": "Vit k deficiency is indicated by :",
+      "correct_answer": "Prolonged PT and aPTT",
+      "wrong_answers": [
+        "Prolonged PT normal aPTT",
+        "Normal PT and normal aPTT",
+        "Normal PT and prolonged aPTT"
+      ]
+    },
+    {
+      "question": "Which coagulation factor is specific for coagulation intrinsic pathway?",
+      "correct_answer": "VIII",
+      "wrong_answers": [
+        "VII",
+        "V",
+        "X"
+      ]
+    },
+    {
+      "question": "What is the most likely deficient coagulation factor in isolated prolonged PT ?",
+      "correct_answer": "VII",
+      "wrong_answers": [
+        "VIII",
+        "V",
+        "X"
+      ]
+    },
+    {
+      "question": "Coagulation profile for a specific patient shows prolonged PT and APTT (Both are > 50 sec). Which of the following is/are the probable deficient coagulation factors?",
+      "correct_answer": "I, II, V, X",
+      "wrong_answers": [
+        "Vlll and lX",
+        "Vlll, lX, Xl, Xll",
+        "Vll"
+      ]
+    },
+    {
+      "question": "Which of the following can cause rolonged Thrombin time ?",
+      "correct_answer": "Dysfibrinogenemia",
+      "wrong_answers": [
+        "Vit k deficiency",
+        "Hemophilia factor 8",
+        "Von willebrand"
+      ]
+    },
+    {
+      "question": "Prothrombin time and partial thromboplastin time are both prolonged in :",
+      "correct_answer": "DIC",
+      "wrong_answers": [
+        "Thrombocytopenia",
+        "Factor VII deficiency",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Oral anticoagulant therapy is monitored by :",
+      "correct_answer": "Prothrombin time",
+      "wrong_answers": [
+        "Partial thromboplastin time",
+        "Thrombin time",
+        "Bleeding time"
+      ]
+    },
+    {
+      "question": "The most important diagnostic tests for DIC are :",
+      "correct_answer": "D-Dimer and FDPs",
+      "wrong_answers": [
+        "Prothrombin time and PTT",
+        "Bleeding time and platelet count",
+        "Clotting factors assay"
+      ]
+    },
+    {
+      "question": "Which of the following is prolonged in factor X deficiency ?",
+      "correct_answer": "Both PT and PTT",
+      "wrong_answers": [
+        "Only PT",
+        "Only PTT",
+        "Both PT and BT"
+      ]
+    },
+    {
+      "question": "Prolonged PTT can be caused by :",
+      "correct_answer": "Factor VIII deficiency",
+      "wrong_answers": [
+        "Renal diseases",
+        "Anemia",
+        "Factor VII deficiency"
+      ]
+    },
+    {
+      "question": "Prolonged prothrombin time can occur in :",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Liver disease",
+        "Vitamin K deficiency",
+        "Factor VII deficiency"
+      ]
+    },
+    {
+      "question": "Warfarin therapy is monitored by :",
+      "correct_answer": "PT",
+      "wrong_answers": [
+        "PTT",
+        "Thrombin Time",
+        "Bleeding time"
+      ]
+    },
+    {
+      "question": "Which test is used to monitor the extrinsic coagulation pathway ?",
+      "correct_answer": "INR",
+      "wrong_answers": [
+        "BT",
+        "TT",
+        "aPTT"
+      ]
+    },
+    {
+      "question": "Heparin exerts its anticoagulant effect by inhibiting which of the following steps ?",
+      "correct_answer": "Conversion of prothrombin to thrombin",
+      "wrong_answers": [
+        "Conversion of fibrinogen to fibrin",
+        "Activation of factor VII",
+        "Platelet aggregation"
+      ]
+    },
+    {
+      "question": "Which test is useful to differentiate between Hemophilia and von Willebrand disease ?",
+      "correct_answer": "BT",
+      "wrong_answers": [
+        "PT",
+        "aPTT",
+        "TT"
+      ]
+    },
+    {
+      "question": "Which of the following diseases are associated with factor-related bleeding?",
+      "correct_answer": "Von Willebrand disease and Hemophilia",
+      "wrong_answers": [
+        "Von Willebrand disease",
+        "Splenomegaly",
+        "Idiopathic thrombocytopenia purpura"
+      ]
+    },
+    {
+      "question": "A 40-year-old female presents with fever, gum bleeding, petechiae, thrombocytopenia, normal PT/PTT, and low haptoglobin. What is the most likely diagnosis ?",
+      "correct_answer": "Idiopathic thrombocytopenia",
+      "wrong_answers": [
+        "Hemophilia 8",
+        "Factor 5 Leiden",
+        "Severe liver dysfunction"
+      ]
+    },
+    {
+      "question": "The intrinsic pathway of coagulation begins with the activation of stage:",
+      "correct_answer": "Factor XII",
+      "wrong_answers": [
+        "Factor II",
+        "Factor I",
+        "Factor V"
+      ]
+    },
+    {
+      "question": "A pregnant female with history of abortion and thrombosis, she is on low molecular weight heparin. Which of the following is useful in monitoring such condition?",
+      "correct_answer": "Anti-factor X activity",
+      "wrong_answers": [
+        "Anti factor IX activity",
+        "Prothrombin time",
+        "INR"
+      ]
+    },
+    {
+      "question": "What are vitamin K dependent factors ?",
+      "correct_answer": "II, VII, IX, X",
+      "wrong_answers": [
+        "V, VI, VIII",
+        "I, XI, XII,V",
+        "X, II, I, IX"
+      ]
+    },
+    {
+      "question": "What is the normal value of PT?",
+      "correct_answer": "10-14 sec",
+      "wrong_answers": [
+        "30 - 40 sec",
+        "1-4 min",
+        "14-16 sec"
+      ]
+    },
+    {
+      "question": "A young female patient with recurrent DVT should be advised to:",
+      "correct_answer": "Perform a thrombophilia panel",
+      "wrong_answers": [
+        "Do PT & PTT tests at time of attack",
+        "Perform cardiac biomarkers levels",
+        "Starts prophylactic warfarin therapy"
+      ]
+    },
+    {
+      "question": "The mutation associated with thrombophilia is :",
+      "correct_answer": "Factor V Leiden mutation",
+      "wrong_answers": [
+        "Factor VIII mutation",
+        "High protein C",
+        "Anti-thrombin over-activity"
+      ]
+    },
+    {
+      "question": "A young patient presents with recurrent DVT and a history of multiple miscarriage suspected for anti phospholipid syndrome . Which of the following should be investigated to confirm diagnosis ?",
+      "correct_answer": "Anticardiolipin antibodies",
+      "wrong_answers": [
+        "CD55 - CD59",
+        "Homocysteine levels",
+        "Prothrombin G20210A"
+      ]
+    },
+    {
+      "question": "Hess test is primarily used to detect :",
+      "correct_answer": "Vascular fragility",
+      "wrong_answers": [
+        "Platelet abnormalities",
+        "Clotting factor deficiency",
+        "Homocysteine level"
+      ]
+    }
+  ]
+}

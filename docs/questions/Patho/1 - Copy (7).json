@@ -1,0 +1,175 @@
+{
+  "questions": [
+    {
+      "question": "A key difference between internal quality control and external quality control (EQAS) lies in the concentration of the control materials. What is this difference?",
+      "correct_answer": "Internal QC uses known concentrations, EQAS uses unknown concentrations",
+      "wrong_answers": [
+        "Internal QC uses unknown concentrations, EQAS uses known concentrations",
+        "Both use known concentrations, but EQAS uses a wider range",
+        "Both use unknown concentrations, but internal QC uses more replicates"
+      ]
+    },
+    {
+      "question": "Which of the following best defines precision in the context of equipment verification?",
+      "correct_answer": "The ability to obtain the same result upon repeated measurement of a specimen",
+      "wrong_answers": [
+        "The closeness of a measurement result to the true value",
+        "The suitability of manufacturer-provided normal ranges for the local population",
+        "The range over which an analyte can be accurately measured without dilution"
+      ]
+    },
+    {
+      "question": "A new glucose analyzer is being verified. A certified reference material with a known glucose concentration of 100 mg/dL is tested 10 times. The results are 99, 101, 100, 99, 102, 100, 101, 99, 100, 101 mg/dL. These results primarily demonstrate good performance in which verification element?",
+      "correct_answer": "Accuracy",
+      "wrong_answers": [
+        "Precision",
+        "Linearity",
+        "Reference Interval"
+      ]
+    },
+    {
+      "question": "When comparing internal quality control and external quality control (EQAS) , what is the typical difference in when results are available for assessment?",
+      "correct_answer": "Internal QC results are immediate but EQAS results are available within 1 week of submission",
+      "wrong_answers": [
+        "Internal QC results are available within 1 week but EQAS results are immediate",
+        "Both internal QC and EQAS results are immediate",
+        "Both internal QC and EQAS results are available monthly"
+      ]
+    },
+    {
+      "question": "A laboratory is verifying a new chemistry analyzer. As part of this process, they compare the normal Ranges provided by the manufacturer with data from their local patient population to ensure suitability. This activity is known as:",
+      "correct_answer": "Reference interval verification",
+      "wrong_answers": [
+        "Linearity verification",
+        "Precision verification",
+        "Two instrument comparison"
+      ]
+    },
+    {
+      "question": "Proficiency testing (PT) is a requirement for accreditation by which specific regulation, in addition to ISO 15189?",
+      "correct_answer": "CLIA regulations",
+      "wrong_answers": [
+        "OSHA regulations",
+        "FDA regulations",
+        "GAHAR standards"
+      ]
+    },
+    {
+      "question": "What is the primary visual tool used for assessing internal quality control data, featuring a central line for the mean and lines for standard deviation limits?",
+      "correct_answer": "Levey-Jennings Chart",
+      "wrong_answers": [
+        "Histogram",
+        "Scatter plot",
+        "Bar graph"
+      ]
+    },
+    {
+      "question": "How frequently is internal quality control typically performed compared to external quality control ?",
+      "correct_answer": "Internal QC is performed daily or per shift, EQAS monthly or every 3 months",
+      "wrong_answers": [
+        "Internal QC is performed monthly, EQAS daily",
+        "Both are performed annually",
+        "Internal QC is performed only when an instrument malfunctions, EQAS daily"
+      ]
+    },
+    {
+      "question": "What is the primary focus of assessment for internal quality control versus external quality control ?",
+      "correct_answer": "Internal QC assesses precision; EQAS assesses accuracy",
+      "wrong_answers": [
+        "Internal QC assesses accuracy; EQAS assesses precision",
+        "Both internal QC and EQAS primarily assess linearity",
+        "Both internal QC and EQAS primarily assess reference intervals"
+      ]
+    },
+    {
+      "question": "The lifecycle of equipment quality assurance is divided into two main phases. What are these two phases?",
+      "correct_answer": "Verification and Quality Control",
+      "wrong_answers": [
+        "Installation and Maintenance",
+        "Calibration and Repair",
+        "Procurement and Disposal"
+      ]
+    },
+    {
+      "question": "In internal quality control, what type of samples are run daily to monitor instrument performance ?",
+      "correct_answer": "Samples with known values",
+      "wrong_answers": [
+        "Patient samples from critically ill patients",
+        "Samples with unknown values from external providers",
+        "Blank samples to reset the instrument"
+      ]
+    },
+    {
+      "question": "A medical technologist runs the same quality control sample 20 times on a new immunoassay analyzer. All 20 results fall within a very narrow range, but they are consistently 15% higher than the known target value for the control. Based on this observation, which aspect of the analyzer's performance is likely good, but requires further investigation for another aspect ?",
+      "correct_answer": "Good precision, poor accuracy",
+      "wrong_answers": [
+        "Good accuracy, poor linearity",
+        "Good linearity, poor precision",
+        "Good trueness, poor reproducibility"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of an External Quality Assessment System - Proficiency Testing (PT) ?",
+      "correct_answer": "To assess the accuracy of laboratory results by comparing them to other participant laboratories",
+      "wrong_answers": [
+        "To monitor instrument precision within a single laboratory",
+        "To establish new reference intervals for local populations",
+        "To verify the linearity of an analyzer before routine use"
+      ]
+    },
+    {
+      "question": "What is the primary strategic benefit of ISO 15189 accreditation for a laboratory ?",
+      "correct_answer": "It grants mutual recognition, allowing results to be accepted internationally",
+      "wrong_answers": [
+        "It guarantees immediate reduction in staff workload",
+        "It solely focuses on reducing the turnaround time for all tests",
+        "It eliminates the need for internal quality control"
+      ]
+    },
+    {
+      "question": "For a laboratory in Egypt to join the Universal Health Insurance (UHS) system,what specific accreditation has become mandatory?",
+      "correct_answer": "GAHAR accreditation",
+      "wrong_answers": [
+        "ISO 9001 certification",
+        "CLIA regulation compliance",
+        "CAP accreditation"
+      ]
+    },
+    {
+      "question": "A laboratory manager observes a significant reduction in re-testing rates and improved consistency in daily operations after achieving accreditation. Which impact of accreditation does this best represent ?",
+      "correct_answer": "Operational Impact",
+      "wrong_answers": [
+        "Strategic Impact",
+        "Clinical Impact",
+        "Financial Impact"
+      ]
+    },
+    {
+      "question": "A laboratory is verifying a new chemistry analyzer. They prepare a series of samples with known concentrations ranging from very low to very high for a specific analyte. The goal is to ensure the analyzer can correctly measure these concentrations without requiring manual dilution or concentration steps. This verification step is specifically assessing which performance characteristic of the analyzer?",
+      "correct_answer": "Linearity",
+      "wrong_answers": [
+        "Precision",
+        "Accuracy",
+        "Two instrument comparison"
+      ]
+    },
+    {
+      "question": "What is the major impact of ISO 15189 accreditation ?",
+      "correct_answer": "Its contribution to global trust and mutual recognition of results.",
+      "wrong_answers": [
+        "Its role in reducing internal laboratory errors.",
+        "Its primary focus on patient-centered care standards.",
+        "Its direct influence on daily operational efficiency."
+      ]
+    },
+    {
+      "question": "Which of the following is a direct clinical impact of laboratory accreditation ?",
+      "correct_answer": "Minimization of misdiagnosis or delayed treatment risks",
+      "wrong_answers": [
+        "Reduction in laboratory operational costs",
+        "Improved market access for laboratory services",
+        "Standardization of laboratory test methodologies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "questions": [
+    {
+      "question": "In which condition would you expect to find elevated levels of uric acid?",
+      "correct_answer": "Gout",
+      "wrong_answers": [
+        "Liver cirrhosis",
+        "Diabetes mellitus",
+        "Hyperthyroidism"
+      ]
+    },
+    {
+      "question": "What is the type of proteinuria associated with Bence Jones proteins of multiple myeloma ?",
+      "correct_answer": "Overflow proteinuria",
+      "wrong_answers": [
+        "Glomerular proteinuria",
+        "Tubular proteinuria",
+        "Functional proteinuria"
+      ]
+    },
+    {
+      "question": "Elevated levels of which substance are associated with renal failure?",
+      "correct_answer": "Urea",
+      "wrong_answers": [
+        "Albumin",
+        "Hemoglobin",
+        "Calcium"
+      ]
+    },
+    {
+      "question": "Which of the following is a common finding in patients with chronic kidney disease?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Elevated serum creatinine",
+        "Decreased serum calcium",
+        "Elevated serum potassium"
+      ]
+    },
+    {
+      "question": "Elevated levels of serum cystatin C are indicative of :",
+      "correct_answer": "Renal impairment",
+      "wrong_answers": [
+        "Liver disease",
+        "Diabetes mellitus",
+        "Thyroid dysfunction"
+      ]
+    },
+    {
+      "question": "Which of the following findings is found in diabetic patient has micro albuminuria?",
+      "correct_answer": "ACR>125mg/g",
+      "wrong_answers": [
+        "ACR>1000mg/g",
+        "ACR>450mg/g",
+        "ACR <25md/g"
+      ]
+    },
+    {
+      "question": "What is the reference range of serum sodium ?",
+      "correct_answer": "135-145 mmol/L",
+      "wrong_answers": [
+        "40-220 mmol/d",
+        "3.5-5.5 mmol/L",
+        "25-125 mmol/d"
+      ]
+    },
+    {
+      "question": "Which od the following is used to asses tubular function and help in renal transplant evaluation ?",
+      "correct_answer": "Serum ß2- microglobulin",
+      "wrong_answers": [
+        "Serum cystatin C",
+        "Serum erythropoietin",
+        "Serum urea"
+      ]
+    },
+    {
+      "question": "Which of the following may cause functional proteinuria ?",
+      "correct_answer": "Body fever",
+      "wrong_answers": [
+        "Tubular ischemia",
+        "Multiple myeloma",
+        "Aminoglycosides"
+      ]
+    },
+    {
+      "question": "What is used a measurement of GFR ?",
+      "correct_answer": "Cystatin",
+      "wrong_answers": [
+        "Albumin",
+        "Glucose",
+        "Protein"
+      ]
+    },
+    {
+      "question": "What is the cause of low fixed specific gravity of urine at 1.010 ?",
+      "correct_answer": "Chronic renal failure",
+      "wrong_answers": [
+        "Acute renal failure",
+        "Nephrotic syndrome",
+        "Glomerulonephritis"
+      ]
+    },
+    {
+      "question": "A patient presents with fatigue, pallor, and nocturnal polyuria. Laboratory investigations reveal anemia, hyperkalemia, hyperphosphatemia, and hypocalcemia. What is the most likely diagnosis?",
+      "correct_answer": "Chronic kidney disease",
+      "wrong_answers": [
+        "Acute kidney injury",
+        "Diabetes insipidus",
+        "Iron deficiency anemia"
+      ]
+    },
+    {
+      "question": "A 43-year-old male with type 2 diabetes mellitus is evaluated. His urinary albumin-to-creatinine ratio is 250 mg/g. What is the most appropriate interpretation?",
+      "correct_answer": "Microalbuminuria",
+      "wrong_answers": [
+        "Normal protein - creatinine ratio",
+        "Macroalbuminuria (overt proteinuria)",
+        "Nephrotic syndrome"
+      ]
+    },
+    {
+      "question": "A 24-year-old patient presents after a crush injury with red colored urine and urinalysis shows no red blood cells. What is the most likely cause?",
+      "correct_answer": "Myoglobin",
+      "wrong_answers": [
+        "Hemoglobin",
+        "Bilirubin",
+        "Urobilinogen"
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding NPN waste products ?",
+      "correct_answer": "End products of catabolism of protein & purines",
+      "wrong_answers": [
+        "Include urea & creatinine, β-microglobulin",
+        "Indicative of renal tubular function",
+        "Arise early in glomerular diseases"
+      ]
+    },
+    {
+      "question": "Functional proteinuria is due to :",
+      "correct_answer": "Exercise, fever, exposure to cold & postural Proteinuria",
+      "wrong_answers": [
+        "Exercise, fever, exposure to cold  and heart failure",
+        "Exercise, fever, exposure to cold  and tubular ischemia",
+        "Exercise, fever, exposure to cold and multiple myeloma"
+      ]
+    },
+    {
+      "question": "How renal tubular function is evaluated ?",
+      "correct_answer": "Serum electrolytes",
+      "wrong_answers": [
+        "Serum urea & creatinine",
+        "Creatinine clearance",
+        "Para-amino hippuric acid clearance"
+      ]
+    },
+    {
+      "question": "Which of the following etiologies of urine concentration failure is responsive to both vasopressin test and Fluid deprivation test ?",
+      "correct_answer": "Psychogenic",
+      "wrong_answers": [
+        "Diabetes insipidus",
+        "Nephgenic",
+        "Fanconi"
+      ]
+    },
+    {
+      "question": "Which of the following is the most probable cause if the results of both fluid deprivation test and vasopressin test are (No response, No response)?",
+      "correct_answer": "Renal causes",
+      "wrong_answers": [
+        "Psychogenic polydipsia",
+        "Inadequate ADH secretion",
+        "Decreased GFR"
+      ]
+    },
+    {
+      "question": "What is the most reliable biochemical test of glomerular function?",
+      "correct_answer": "Creatinine",
+      "wrong_answers": [
+        "Serum urea",
+        "Uric acid",
+        "Cystatin C"
+      ]
+    },
+    {
+      "question": "How much does the GFR needs to decline before the creatinine levels rise above normal?",
+      "correct_answer": "50%",
+      "wrong_answers": [
+        "20%",
+        "30%",
+        "40%"
+      ]
+    },
+    {
+      "question": "Which of the following compounds constitutes the largest fraction of excreted NPN substances?",
+      "correct_answer": "Urea",
+      "wrong_answers": [
+        "Uric acid",
+        "Creatinine",
+        "Cystatin C"
+      ]
+    },
+    {
+      "question": "Which type of urine sample is most suitable for creatinine clearance calculation?",
+      "correct_answer": "24 hour urine sample",
+      "wrong_answers": [
+        "Random urine sample",
+        "Mid stream urine sample",
+        "Early morning urine sample"
+      ]
+    },
+    {
+      "question": "Which of the following is an advantage of cystatin C over creatinine?",
+      "correct_answer": "Cystatin C rises to a detectable level earlier than creatinine",
+      "wrong_answers": [
+        "Cystatin C in serum is proportionally correlated with the GFR",
+        "Cystatin C is reabsorbed by the kidney tubules.",
+        "Cystatin C shows different results based on diet."
+      ]
+    },
+    {
+      "question": "Which of the following markers is useful for prediction of organ rejection?",
+      "correct_answer": "B2-Microglobulin",
+      "wrong_answers": [
+        "Tamm-Horafall protein",
+        "Myoglobin",
+        "ACR"
+      ]
+    },
+    {
+      "question": "In which of the following clinical conditions is glucose detected in urine despite normal plasma concentration?",
+      "correct_answer": "Fanconi syndrome",
+      "wrong_answers": [
+        "Insulin resistance",
+        "Gestational diabetes",
+        "Hysterical polydipsia"
+      ]
+    },
+    {
+      "question": "Which of the following denotes good concentrating power of kidney?",
+      "correct_answer": "A specific gravity of 1.025 in an early morning sample",
+      "wrong_answers": [
+        "A specific gravity of 1.010 in a 24-h urine sample",
+        "Urine osmolality in a random urine sample is 600 mosmol/kg",
+        "Lack of response to ADH"
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding a response to fluid deprivation test?",
+      "correct_answer": "Psycogenic cause of failure to concentrate urine.",
+      "wrong_answers": [
+        "Inhibition of ADH secretion",
+        "Urine osmolality of 600 mosmol/kg",
+        "DDAVP is required to conclude the test"
+      ]
+    },
+    {
+      "question": "In a case of nephogenic failure to concentrate urine, which of the following are the most probable results to fluid deprivation and DDAVP tests respectively?",
+      "correct_answer": "No Response - No Response",
+      "wrong_answers": [
+        "Response - Response",
+        "Response - No Response",
+        "No Response - Response"
+      ]
+    },
+    {
+      "question": "Bence Jones proteinuria are seen in which of the following?",
+      "correct_answer": "Multiple Myeloma",
+      "wrong_answers": [
+        "Pyelonephritis",
+        "Exposure to cold",
+        "Tubular ischemia"
+      ]
+    },
+    {
+      "question": "Which of the following results is considered critical?",
+      "correct_answer": "3 mg/dl creatinine in a pediatric patient",
+      "wrong_answers": [
+        "60 mg/dl BUN",
+        "5.5 mmol/L serum potassium",
+        "150 mg/24h urine protein"
+      ]
+    }
+  ]
+}

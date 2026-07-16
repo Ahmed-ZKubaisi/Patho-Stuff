@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question": "Identify marker B from the cardiac markers level graph:",
+      "correct_answer": "Troponins",
+      "wrong_answers": [
+        "Myoglobin",
+        "Pro-BNP",
+        "CK-MB"
+      ]
+    },
+    {
+      "question": "Identify marker C from the cardiac markers level graph:",
+      "correct_answer": "CK-MB",
+      "wrong_answers": [
+        "Troponins",
+        "Myoglobin",
+        "Pro-BNP"
+      ]
+    },
+    {
+      "question": "Which of the following can cause false positive troponin levels ?",
+      "correct_answer": "Renal dysfunction",
+      "wrong_answers": [
+        "Acute MI",
+        "Angina pectoris",
+        "Heart failure"
+      ]
+    },
+    {
+      "question": "A 65-year-old male presents with progressive dyspnea, orthopnea, bilateral lower limb edema and elevated jugular venous pressure. Laboratory investigations show markedly elevated pro-BNP levels. What is the most likely diagnosis?",
+      "correct_answer": "Congestive heart failure",
+      "wrong_answers": [
+        "Irreversible ischemia",
+        "Unstable angina",
+        "Acute MI"
+      ]
+    },
+    {
+      "question": "What differentiates CK-MB from other CK isoenzymes ?",
+      "correct_answer": "Specific for cardiac injury",
+      "wrong_answers": [
+        "Found only in skeletal muscle",
+        "Indicates hepatobiliary obstruction",
+        "Elevated in renal failure"
+      ]
+    },
+    {
+      "question": "A patient with a history of heart disease presents with dyspnea, lower limb edema, and ascites. Which laboratory marker is most useful for assessing heart failure in this patient?",
+      "correct_answer": "Pro-BNP",
+      "wrong_answers": [
+        "Troponin",
+        "CK-MB",
+        "D-dimer"
+      ]
+    },
+    {
+      "question": "A patient presented to the emergency room with severe chest pain. Which of the following is the gold standard marker for diagnosis of myocardial infarction?",
+      "correct_answer": "Cardiac troponins",
+      "wrong_answers": [
+        "Myoglobin",
+        "Creatine kinase",
+        "BNP"
+      ]
+    },
+    {
+      "question": "Which of the following is an early marker for diagnosing acute myocardial infarction?",
+      "correct_answer": "CK-MB",
+      "wrong_answers": [
+        "Troponins",
+        "Pro-BNP",
+        "LDH"
+      ]
+    },
+    {
+      "question": "Creatine kinase MB mass is",
+      "correct_answer": "Direct measurement of the enzyme concentrations",
+      "wrong_answers": [
+        "Indirect measurement of the enzyme concentrations",
+        "Indirect measurement of the enzyme activity",
+        "Direct measurement of the enzyme activity"
+      ]
+    },
+    {
+      "question": "Why conventional TnI should not be used alone to diagnose myocardial infarction ?",
+      "correct_answer": "It may be falsely elevated in other patients with septic shock",
+      "wrong_answers": [
+        "It is elevated in all skeletal muscle diseases",
+        "It rises immediately in every patient with chest pain",
+        "It is not specific for cardiac injury"
+      ]
+    },
+    {
+      "question": "A patient came to ER complaining from radiating pain in the left shoulder. What is the earliest cardiac marker that rises first?",
+      "correct_answer": "Myoglobin",
+      "wrong_answers": [
+        "TnT",
+        "CK-MB",
+        "TnI"
+      ]
+    },
+    {
+      "question": "Which cardiac marker should be repeated to confirm the diagnosis of acute myocardial infarction after non conclusive early results?",
+      "correct_answer": "Troponin",
+      "wrong_answers": [
+        "CK-MB",
+        "Myoglobin",
+        "LDH"
+      ]
+    },
+    {
+      "question": "What is the cardiac condition diagnosed by highly sensitive troponin ?",
+      "correct_answer": "Acute myocardial infarction",
+      "wrong_answers": [
+        "Heart failure",
+        "Arrythmia",
+        "ischemic heart disease"
+      ]
+    },
+    {
+      "question": "Elevated troponin above the 99th percentile with ECG changes is diagnostic of:",
+      "correct_answer": "Myocardial Infarction",
+      "wrong_answers": [
+        "Heart Failure",
+        "Unstable Angina",
+        "Pericarditis"
+      ]
+    }
+  ]
+}

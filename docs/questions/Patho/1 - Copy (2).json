@@ -1,0 +1,355 @@
+{
+  "questions": [
+    {
+      "question": "Which condition is associated with elevated levels of ferritin?",
+      "correct_answer": "chronic disease anemia",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Vitamin B12 deficiency",
+        "Sickle cell anemia"
+      ]
+    },
+    {
+      "question": "What is the most common cause of secondary polycythemia ?",
+      "correct_answer": "Chronic hypoxia",
+      "wrong_answers": [
+        "Polycythemia vera",
+        "Hemoglobinopathy",
+        "Renal cell carcinoma"
+      ]
+    },
+    {
+      "question": "In which of the following conditions would you find \"target cells\" on a peripheral blood smear?",
+      "correct_answer": "Thalassemia major",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "heterozygous Sickle cell anemia",
+        "Vitamin B12 deficiency anemia"
+      ]
+    },
+    {
+      "question": "Which laboratory finding is most characteristic of hemolytic anemia?",
+      "correct_answer": "Elevated reticulocyte count",
+      "wrong_answers": [
+        "Decreased reticulocyte count",
+        "Elevated hemoglobin A1c",
+        "Decreased lactate dehydrogenase (LDH)"
+      ]
+    },
+    {
+      "question": "Which condition is associated with low serum iron levels and high total iron binding capacity (TIBC)?",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Anemia of chronic disease",
+        "Sideroblastic anemia",
+        "Thalassemia"
+      ]
+    },
+    {
+      "question": "Coombs test helps in diagnosis of :",
+      "correct_answer": "Autoimmune anemia",
+      "wrong_answers": [
+        "Liver dysfunction",
+        "Renal dysfunction",
+        "Thyroid dysfunction"
+      ]
+    },
+    {
+      "question": "Hematocrit value measures :",
+      "correct_answer": "The proportion of blood volume that is occupied by red blood cells",
+      "wrong_answers": [
+        "The concentration of hemoglobin in red blood cells",
+        "The number of white blood cells in a given volume of blood",
+        "The total volume of plasma in the blood"
+      ]
+    },
+    {
+      "question": "Which laboratory finding is indicative of a hypoproliferative anemia?",
+      "correct_answer": "depressed reticulocyte count",
+      "wrong_answers": [
+        "Elevated reticulocyte count",
+        "Decreased ferritin level",
+        "Increased serum erythropoietin level"
+      ]
+    },
+    {
+      "question": "Which of following is diagnosed by osmatic fragility test?",
+      "correct_answer": "Hereditary Spherocytosis",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Sickle cell anemia",
+        "Beta thalassemia"
+      ]
+    },
+    {
+      "question": "Which of the following present with microcytic hypochromic anemia?",
+      "correct_answer": "Sideroplastic anemia",
+      "wrong_answers": [
+        "Aplastic anemia",
+        "Spherocytosis",
+        "Hemolytic anemia"
+      ]
+    },
+    {
+      "question": "One possible cause of Hypochromic microcytic anemia is",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "sickle cell anemia",
+        "Vitamin B12 deficiency",
+        "Bone marrow failure"
+      ]
+    },
+    {
+      "question": "What is the normal count of platelets in adults ?",
+      "correct_answer": "150 - 450 x 10^9/L",
+      "wrong_answers": [
+        "15-45 x 10^9/L",
+        "1500- 4500 x 10^9/L",
+        "None of the above"
+      ]
+    },
+    {
+      "question": "Pencil red cells with anisopoikilocytosis are characteristics of:",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Sickle cell anemia",
+        "Thalassemia",
+        "Aplastic anemia"
+      ]
+    },
+    {
+      "question": "Hereditary spherocytosis is diagnosed by",
+      "correct_answer": "Osmotic fragility test",
+      "wrong_answers": [
+        "Hb electrophoresis",
+        "G6PD assay",
+        "Coomb s test"
+      ]
+    },
+    {
+      "question": "What is the stain used for microscopic viewing of reticulocyte ?",
+      "correct_answer": "Creysl blue stain",
+      "wrong_answers": [
+        "Leshmania stain",
+        "Hematoxylin stain",
+        "Iron stain"
+      ]
+    },
+    {
+      "question": "A patient presents with fatigue, redness, diarrhea, and abdominal pain for 2 days. Lab investigations show low hemoglobin, low MCV, low serum iron, low ferritin, and increased TIBC. What is the most likely diagnosis?",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Anemia of chronic disease",
+        "Thalassemia",
+        "Sideroblastic anemia"
+      ]
+    },
+    {
+      "question": "In a patient with iron deficiency anemia, the erythrocytic indices are typically:",
+      "correct_answer": "MCV decreased, MCH decreased, MCHC decreased",
+      "wrong_answers": [
+        "MCV increased, MCH decreased, MCHC decreased",
+        "MCV decreased, MCH increased, MCHC decreased",
+        "MCV decreased, MCH decreased, MCHC normal"
+      ]
+    },
+    {
+      "question": "What is the normal range of reticulocytes ?",
+      "correct_answer": "0.2% to 2.0%",
+      "wrong_answers": [
+        "0% to 0.5%",
+        "0.5% to 1.5%",
+        "1.5% to 2.5 %"
+      ]
+    },
+    {
+      "question": "Which of the following causes neutropenia ?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Immune reaction",
+        "Bone marrow disease",
+        "Severe pneumonia"
+      ]
+    },
+    {
+      "question": "Steroids are responsible for which of the following blood cell count abnormality ?",
+      "correct_answer": "Neutrophilia",
+      "wrong_answers": [
+        "Neutropenia",
+        "Eosinophilia",
+        "Lymphocytosis"
+      ]
+    },
+    {
+      "question": "Diagnosis of thalassemia depends on :",
+      "correct_answer": "Hb electrophoresis",
+      "wrong_answers": [
+        "Coombs test",
+        "Osmotic fragility test",
+        "CD55,CD59 positivity"
+      ]
+    },
+    {
+      "question": "Sideroblastic anemia is characterized by:",
+      "correct_answer": "Disturbance in utilization of iron by cells",
+      "wrong_answers": [
+        "Impaired absorption of iron from the gut",
+        "Increased loss of iron through bleeding",
+        "Deficiency of vitamin B12"
+      ]
+    },
+    {
+      "question": "What is the stain used in leucocyte differential count ?",
+      "correct_answer": "Leshmania",
+      "wrong_answers": [
+        "Creysl blue",
+        "Iron stain",
+        "Hematoxylin"
+      ]
+    },
+    {
+      "question": "The CBC of a 35-year-old male patient presented with fatigue, headache and pallor revealed Hb concentration: 8 g/dl, RBCs 4.2x106/ ul, MCV 60f1, MCH 20pg, MCHC 26 g/dl, Platelets 550,000/ul &WBCs 8000/ul. What is the possible diagnosis?",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Hemolytic anemia",
+        "Vit B12 deficiency anemia",
+        "Hereditary spherocytosis"
+      ]
+    },
+    {
+      "question": "A 45-year-old lady presents with severe generalized weakness. CBC shows Hb 5.0 g/dL, MCV 129 fL, WBC 2,500/µL, platelet count 80,000/µL. There is no hepatosplenomegaly or lymphadenopathy. Reticulocyte count is 1%, and peripheral blood smear shows a macrocytic blood picture. What is the most likely diagnosis?",
+      "correct_answer": "Megaloblastic anemia",
+      "wrong_answers": [
+        "Aplastic anemia",
+        "Iron deficiency anemia",
+        "Hemolytic anemia"
+      ]
+    },
+    {
+      "question": "Which of the following lg is involved in mediating autoimmune hemolytic anemia at 37⁰ C ?",
+      "correct_answer": "IgG",
+      "wrong_answers": [
+        "IgA",
+        "IgM",
+        "IgE"
+      ]
+    },
+    {
+      "question": "Hemoglobin concentration and hematocrit are used to calculate :",
+      "correct_answer": "MCHC",
+      "wrong_answers": [
+        "MCV",
+        "RBCs count",
+        "MCH"
+      ]
+    },
+    {
+      "question": "A 63-year-old Female patient has had malaise and nausea for the past 14 months. Her Hb is 7.9g/dl, no occult blood in stool, gastric endoscope showed mucosal atrophy and loss of rugal folds, the most likely lab finding in this patient:",
+      "correct_answer": "Increased neutrophil segmentation",
+      "wrong_answers": [
+        "Sideroblastic cells at bone marrow",
+        "Pencil cells in peripheral blood",
+        "Increased reticulocyte count"
+      ]
+    },
+    {
+      "question": "A 15-year-old girl presents with fatigue, headache, and pallor. CBC shows Hb 9 g/dL, RBCs 4.2×10⁶/µL, MCV 60 fL, MCH 20 pg, MCHC 26 g%, platelets 500,000/µL, and WBCs 6,000/µL. What is the most likely diagnosis?",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Megaloblastic anemia",
+        "Hemolytic anemia",
+        "Autoimmune anemia"
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding hemolytic anemia ?",
+      "correct_answer": "Increased reticulocyte count",
+      "wrong_answers": [
+        "Decreased reticulocyte count",
+        "Major Cause of microcytic anemia",
+        "Always intravascular"
+      ]
+    },
+    {
+      "question": "Mean corpuscular volume is calculated by ;",
+      "correct_answer": "Hematocrit and red blood cells count",
+      "wrong_answers": [
+        "Hematocrit and hemoglobin",
+        "Hemoglobin and red blood cells count",
+        "Hemoglobin and haptoglobin"
+      ]
+    },
+    {
+      "question": "Dimorphic appearance in blood smear is characteristic of :",
+      "correct_answer": "Sideroblastic anemia",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Hereditary Spherocytosis",
+        "Megaloblastic anemia"
+      ]
+    },
+    {
+      "question": "Calculate: Hb: 6.8, RBCs: 2.00×10^6 / cmm, Ht: 24%. Calculate MCV:",
+      "correct_answer": "120",
+      "wrong_answers": [
+        "B. 100",
+        "C. 90",
+        "D. 65"
+      ]
+    },
+    {
+      "question": "Which of the following is associated with reticulocytosis?",
+      "correct_answer": "Acute hemorrhage",
+      "wrong_answers": [
+        "Megaloblastic anemia",
+        "Iron deficiency anemia",
+        "Aplastic anemia"
+      ]
+    },
+    {
+      "question": "A patient presents after a road traffic accident with acute bleeding. Laboratory findings show anemia with normal MCV and normal MCHC. What is the most likely type of anemia?",
+      "correct_answer": "Normocytic anemia",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Megaloblastic anemia",
+        "Thalassemia"
+      ]
+    },
+    {
+      "question": "A 12 year old child accidentally took sulfa containing drug. His lab findings showed hyperbilirubinemia & anemia. Microscopic examination showed bite cells. What is the probable diagnosis?",
+      "correct_answer": "G6PD hemolytic anemia",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Spherocytosis",
+        "Autoimmune hemolytic anemia"
+      ]
+    },
+    {
+      "question": "Which of the following measures the average size of the RBCs?",
+      "correct_answer": "MCV",
+      "wrong_answers": [
+        "MCH",
+        "MCHC",
+        "RDW"
+      ]
+    },
+    {
+      "question": "A patient presents with fatigue, pallor, low hemoglobin, increased unconjugated bilirubin, and increased reticulocytosis. The diagnosis is:",
+      "correct_answer": "Hemolytic anemia",
+      "wrong_answers": [
+        "Aplastic anemia",
+        "Iron deficiency anemia",
+        "Megaloblastic anemia"
+      ]
+    },
+    {
+      "question": "Which of the following is used for diagnosis of paroxysmal noctural hemoglobinuria-associated hemolytic anemia ?",
+      "correct_answer": "CD55 , CD 59 testing",
+      "wrong_answers": [
+        "Osmotic fragility test",
+        "Hb electrophoresis",
+        "Sickling test"
+      ]
+    }
+  ]
+}
